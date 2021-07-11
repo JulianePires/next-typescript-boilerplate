@@ -1,9 +1,8 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Next Typescript Boilerplate" />
 
-  &#xa0;
+&#xa0;
 
-  <!-- <a href="https://nexttypescriptboilerplate.netlify.com">Demo</a> -->
 </div>
 
 <h1 align="center">Next Typescript Boilerplate</h1>
@@ -26,9 +25,9 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Next Typescript Boilerplate 🚀 Em construção...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
@@ -44,31 +43,31 @@
 
 <br>
 
-## :dart: Sobre ##
+## :dart: Sobre
 
-Sobre o seu projeto
+Boilerplate made to build Front End Projects using Next.js + Typescript + ReactQuery + Chakra UI
+You can use as a template
 
-## :sparkles: Funcionalidades ##
+## :sparkles: Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
+:heavy_check_mark: Template 1;\
+:heavy_check_mark: Directories Architecture 2;\
 :heavy_check_mark: Funcionalidade 3;
 
-## :rocket: Tecnologias ##
+## :rocket: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Next](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [React Query](https://react-query.tanstack.com/)
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré requisitos
 
 Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Começando
 
 ```bash
 # Clone este repositório
@@ -81,15 +80,14 @@ $ cd next-typescript-boilerplate
 $ yarn
 
 # Para iniciar o projeto
-$ yarn start
+$ yarn dev
 
 # O app vai inicializar em <http://localhost:3000>
 ```
 
-## :memo: Licença ##
+## :memo: Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
 Feito com :heart: por <a href="https://github.com/JulianePires" target="_blank">Juliane Pires</a>
 
